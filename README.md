@@ -1,4 +1,4 @@
-(https://github.com/nispadin/TikTok-Project/assets/136842875/b89a6795-db5c-4aac-8a1c-e1261999e706)# Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
