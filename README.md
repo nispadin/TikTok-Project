@@ -1,1 +1,1 @@
-https://github.com/nispadin/TikTok-Project.git
+https://tiktok---jornada-13878.web.app/
